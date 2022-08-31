@@ -50,9 +50,3 @@ React Testing Library
 https://julia-case-loggi.surge.sh
 
 ---
-
-## 🦸 Autor
-
-<a href="https://github.com/juliasbz">
-
----

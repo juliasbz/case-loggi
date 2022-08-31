@@ -38,7 +38,9 @@ $ npm run start
 ## 🛠 Tecnologias Utilizadas
 
 React
+
 Styled-Components
+
 React Testing Library
 
 ---
